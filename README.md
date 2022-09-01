@@ -1,5 +1,5 @@
-# ENGR100-p3
-Digital Signal Processing Final Project for Engineering 100 Section 430 in Winter 2022
+## Title
+Digital Signal Processing  Project
 
 ## Description
 This project should be able to identify instruments based on spectrum analysis from out of a list of predetermined instruments.
